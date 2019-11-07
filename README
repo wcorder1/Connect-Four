@@ -1,0 +1,27 @@
+#Project 3
+Aaron Daugherty (811-976-955)
+Garret Corder (811877300)
+
+## Instructions
+
+To compile my code, type:
+
+```
+$ make compile
+```
+
+To run my code (after compiling it), type:
+
+```
+$ ./proj3.out -h -h
+```
+
+To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+
+##Optional Quote(s)
+Big Money, Big Women, Big Fun
